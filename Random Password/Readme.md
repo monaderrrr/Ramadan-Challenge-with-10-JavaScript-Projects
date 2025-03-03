@@ -35,7 +35,7 @@ This project is a simple **Random Password Generator** built using HTML, CSS, an
 - 📱 Mobile-friendly design improvements.
 
 ## 👨‍💻 Author
-Created by **[Your Name]**
+Created by **Mohamed Nader Rashad**
 
 ## 📜 License
 This project is open-source and available under the MIT License.
