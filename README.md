@@ -23,4 +23,4 @@ Other relevant libraries
 📢 Stay Updated!
 
 Follow me on GitHub and my blog for updates.
-Feel free to fork, star ⭐, 
+Feel free to fork, star ⭐.
