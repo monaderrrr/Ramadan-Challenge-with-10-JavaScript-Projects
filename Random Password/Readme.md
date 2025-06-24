@@ -1,5 +1,8 @@
 # 🔐 Random Password Generator
 
+<p align="center">
+  <a href="https://monaderrrr.github.io/Ramadan-Challenge-with-10-JavaScript-Projects/Random%20Password/index.html" target="_blank"><strong>🌐 Live Demo</strong></a> 
+</p>
 ## 📌 Description
 This project is a simple **Random Password Generator** built using HTML, CSS, and JavaScript. It allows users to generate strong passwords of varying lengths with options to include uppercase letters, lowercase letters, numbers, and special characters.
 
