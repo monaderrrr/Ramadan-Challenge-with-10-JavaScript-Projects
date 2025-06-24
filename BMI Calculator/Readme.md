@@ -1,4 +1,7 @@
 # 🏋️‍♂️ BMI Calculator
+<p align="center">
+  <a href="https://monaderrrr.github.io/Ramadan-Challenge-with-10-JavaScript-Projects/BMI%20Calculator/index.html" target="_blank"><strong>🌐 Live Demo</strong></a> 
+</p>
 
 ## 📏 How to Convert Height to Feet & Inches
 
