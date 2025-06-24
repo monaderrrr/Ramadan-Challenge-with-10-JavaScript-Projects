@@ -1,5 +1,7 @@
 # 🖼️ Basic Image Editor
-
+<p align="center">
+  <a href="https://monaderrrr.github.io/Ramadan-Challenge-with-10-JavaScript-Projects/Basic%20Image%20Editor/index.html" target="_blank"><strong>🌐 Live Demo</strong></a> 
+</p>
 ## ✨ Description
 
 Basic Image Editor is a lightweight and easy-to-use application for performing simple image editing tasks. It allows users to apply basic transformations such as cropping, resizing, rotating, and adding filters to images.
