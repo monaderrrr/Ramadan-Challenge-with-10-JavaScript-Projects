@@ -1,5 +1,9 @@
 # 🎯 QR Code Generator
 
+<p align="center">
+  <a href="https://monaderrrr.github.io/Ramadan-Challenge-with-10-JavaScript-Projects/QR%20Code%20Generator/index.html" target="_blank"><strong>🌐 Live Demo</strong></a> 
+</p>
+
 ## 📜 About
 
 This is a simple and user-friendly QR Code Generator built using HTML, CSS, and JavaScript. Enter any text or URL, click a button, and instantly get a QR code! ⚡
