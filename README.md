@@ -11,7 +11,6 @@ During this blessed month, I will be building 10 JavaScript projects using JavaS
 ✔ Write blog posts explaining each project.
 
 
-
 🛠 Tech Stack
 
 JavaScript
