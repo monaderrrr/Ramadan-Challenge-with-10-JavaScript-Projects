@@ -13,7 +13,6 @@ During this blessed month, I will be building 10 JavaScript projects using JavaS
 
 🛠 Tech Stack
 
-
 JavaScript
 
 HTML & CSS
